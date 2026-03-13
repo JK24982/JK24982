@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Krystian 👋
 
-<!--
-**JK24982/JK24982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics technician interested in hardware design and embedded systems.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PCB design
+- analog electronics
+- embedded hardware
+- prototyping and soldering (THT / SMD)
+- measurement equipment (oscilloscope, multimeter)
+
+## 🧠 Projects
+
+- **LM2596 Buck Converter** – 12V → 5V DC-DC power supply  
+- **TS9 Overdrive Pedal** – analog guitar overdrive circuit  
+- **ESP32-S3 Development Board** – custom embedded hardware platform  
+
+## 📫 Contact
+
+- GitHub: https://github.com/JK24982
