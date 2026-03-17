@@ -7,8 +7,7 @@ Electronics technician interested in hardware design and embedded systems.
 - PCB design
 - analog electronics
 - embedded hardware
-- prototyping and soldering (THT / SMD)
-- measurement equipment (oscilloscope, multimeter)
+- prototyping and soldering
 
 ## 🧠 Projects
 
